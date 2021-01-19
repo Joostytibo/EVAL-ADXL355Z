@@ -16,11 +16,11 @@ change to:
     
 The device also uses I2C to communicate, you need 2 wires for communication and 2 wires for power.
 
-2 wires going to SDA and SCL
+2 wires from SDA and SCL
   - SDA to Arduino pin A4
   - SCL to Arduino pin A5
   
-2 wires going to VDD and GND
+2 wires from VDD and GND
   - VDD to Arduino pin 3.3V
   - GND to Arduino pin GND
       
