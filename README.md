@@ -17,10 +17,10 @@ change to:
 The device also uses I2C to communicate, you need 2 wires for communication and 2 wires for power.
 
 2 wires going to SDA and SCL
-      - SDA to Arduino pin A4
-      - SCL to Arduino pin A5
+  - SDA to Arduino pin A4
+  - SCL to Arduino pin A5
 2 wires going to VDD and GND
-      - VDD to Arduino pin 3.3V
-      - GND to Arduino pin GND
+  - VDD to Arduino pin 3.3V
+  - GND to Arduino pin GND
       
 Make MISO/SDA pin HIGH to establish a pull_up on the device
