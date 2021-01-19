@@ -1,5 +1,5 @@
 # EVAL-ADXL355Z
-Evalualtion board of ADXL355Z from Analog Digital
+Evalualtion board of ADXL355Z from Analog Digital.
 This code is programmed in Arduino for EVAL-ADXL355Z from Analog Devices.
 It's using the "Wire" library to make it work.
 The device is on pull_up that makes the address 0x53, else it is using address 0x1D.
