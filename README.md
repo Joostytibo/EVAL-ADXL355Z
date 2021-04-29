@@ -25,4 +25,5 @@ The device also uses I2C to communicate, you need 2 wires for communication and 
   - GND to Arduino pin GND
       
 Make MISO/SDA pin HIGH to establish a pull_up on the device
+
 The wiring above is for the Arduino UNO
